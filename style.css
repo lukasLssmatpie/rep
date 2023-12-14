@@ -1,0 +1,12 @@
+#pontuação{
+    font-size: 40px;
+    margin-left: 20px;
+}
+#tempo{
+    font-size: 40px;
+    float: right;
+    margin-right: 20px;
+}
+#esboço_desenhado{
+    color: blueviolet;
+}
